@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Ticker from './view/ticker';
+import Ticker from './app/components/ticker/ticker';
 
 export default class App extends React.Component {
   render() {

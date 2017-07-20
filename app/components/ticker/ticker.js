@@ -10,7 +10,7 @@ import {AppState, Platform,ListView,StyleSheet,StatusBar,Text,TouchableHighlight
 import Storage from 'react-native-storage';
 import { AsyncStorage } from 'react-native';
 
-import Util from '../utility/utils';
+import Util from '../../utility/utils';
 
 class WatchFace extends Component{
   static propTypes = {
